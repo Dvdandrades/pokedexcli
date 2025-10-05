@@ -13,3 +13,4 @@ A simple command-line Pokédex written in Go
     - `exit` – Quit the Pokédex
     - `catch` - Attempt to catch a pokemon
     - `inspect` - View details about a caught Pokemon
+    - `pokedex` - See all the pokemon you've caught
